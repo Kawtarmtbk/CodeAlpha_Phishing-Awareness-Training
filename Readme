@@ -1,0 +1,98 @@
+# 🎣 Phishing Attacks: Recognize · Avoid · Stay Safe
+
+> A comprehensive, visually-engaging security awareness presentation covering phishing email recognition, fake websites, social engineering tactics, real-world case studies, best practices, and an interactive quiz.
+
+---
+
+## 📋 Overview
+
+This presentation was designed as a **Security Awareness Training module** to help individuals and organizations understand and defend against phishing attacks — one of the most prevalent and damaging cyber threats today.
+
+Whether you're a security trainer, IT professional, educator, or team lead, this deck gives you everything you need to run an effective phishing awareness session.
+
+---
+
+## 🖥️ Slide Contents
+
+| # | Slide Title | What's Covered |
+|---|-------------|----------------|
+| 1 | **Title Slide** | Topic overview and module tags |
+| 2 | **What is Phishing?** | Definition, key statistics, attack type taxonomy |
+| 3 | **Recognizing Phishing Emails** | Annotated fake email with 5 red flags |
+| 4 | **Spotting Fake Websites** | Real vs. fake URL comparisons, verification checklist |
+| 5 | **Social Engineering Tactics** | 6 psychological manipulation methods explained |
+| 6 | **Best Practices** | 6 numbered action cards to stay protected |
+| 7 | **Real-World Examples** | 3 high-profile phishing cases (Google/Facebook, Twitter, Twilio) |
+| 8 | **Interactive Quiz** | 3 scenario-based questions with highlighted answers |
+| 9 | **Action Plan** | Personal 5-step "Stay Phishing-Proof" plan |
+
+---
+
+## 🧠 Key Topics Covered
+
+- **Email phishing** — recognizing spoofed senders, urgency tactics, suspicious links
+- **Fake websites** — URL inspection, HTTPS verification, domain tricks
+- **Social engineering** — urgency, fear, authority, greed, familiarity, reciprocity
+- **Spear phishing, whaling, smishing & vishing** — attack type breakdown
+- **Real-world breaches** — $100M Google/Facebook scam, Twitter Bitcoin hack, Twilio/Cloudflare attack
+- **Best practices** — MFA, link verification, independent contact verification, password managers
+- **Interactive quiz** — audience engagement with scenario-based questions
+
+---
+
+## 📊 Key Statistics Highlighted
+
+- **3.4 Billion** phishing emails sent per day worldwide
+- **36%** of all data breaches involve phishing
+- **$17,700** lost per minute globally to phishing
+- **74%** of organizations faced phishing attacks in 2023
+
+---
+
+## 📁 File
+
+| File | Description |
+|------|-------------|
+| `PhishingAwareness.pptx` | Full 9-slide PowerPoint presentation |
+
+---
+
+## 🚀 How to Use
+
+1. **Download** `PhishingAwareness.pptx`
+2. **Open** in Microsoft PowerPoint, Google Slides, or LibreOffice Impress
+3. **Present** as-is, or customize slides to match your organization's branding
+4. **Use the quiz** (Slide 8) for live audience interaction — ask each question before revealing the answer
+5. **End with the Action Plan** (Slide 9) and encourage attendees to implement the 5 steps immediately
+
+### 💡 Tips for Presenters
+
+- **Slide 3** (Phishing Email): Walk the audience through the fake email line by line before showing the red flags on the right
+- **Slide 5** (Social Engineering): Ask the audience "has this ever happened to you?" for each tactic — encourages participation
+- **Slide 7** (Real-World Examples): Brief storytelling around each case makes the threat feel real and urgent
+- **Slide 8** (Quiz): Pause after each question and take audience votes before revealing the answer
+
+---
+
+## 🎨 Design
+
+- **Theme:** Dark cybersecurity aesthetic with a navy/charcoal base
+- **Accent colors:** Alert red, warning amber, safe green, info blue
+- **Typography:** Arial Black (headers) + Calibri (body)
+- **Layout:** Card-based, icon-driven, data-forward — optimized for clarity and engagement
+
+---
+
+## ⚠️ Disclaimer
+
+This material is intended **solely for educational and security awareness purposes**. All phishing examples, URLs, and email samples shown are **fictional and fabricated** for training — they do not represent real attacks on real individuals.
+
+---
+
+## 🤝 Contributing
+
+Found a typo? Want to add a slide or localize for another language? Feel free to open a pull request or issue!
+
+---
+
+> 🔒 *Security is everyone's responsibility. When in doubt — **Stop, Think, Report.***
